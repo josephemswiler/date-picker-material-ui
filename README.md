@@ -8,7 +8,8 @@ create-react-app .
 ```
 
 Install Material-UI, Material-UI Pickers, @date-io/date-fns, and date-fns.
-_Note, 2.0.0-alpha date-fns is currently the supported version._
+
+_NOTE: Be sure to use the `2.0.0-alpha` version of `date-fns`! As of the time of this writing, other versions may not be supported._
 
 ```shell
 yarn add @material-ui/core material-ui-pickers @date-io/date-fns date-fns@2.0.0-alpha.25
